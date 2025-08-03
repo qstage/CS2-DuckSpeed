@@ -1,5 +1,5 @@
 # CS2-DuckSpeed
-Eliminates the slowdown when ducking.
+Eliminates the slowdown when ducking. For the best effect, you can adjust - **`sv_timebetweenducks`**
 
 ## Requirments
 - [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp/)
